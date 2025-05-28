@@ -78,6 +78,7 @@ sudo update-java-alternatives -l
 ```
 the Java installation package path (JAVA_HOME):
 
+
 java-1.11.0-openjdk-amd64      1111       <code> /usr/lib/jvm/java-1.11.0-openjdk-amd64 </code>
 
 Create and edit a new service file:
